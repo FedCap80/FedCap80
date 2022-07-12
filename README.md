@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FedCap80
 - 👀 I’m interested in ... Agile, Test Driven Design, Code Review, C++, C#, XML.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to came back to software developer job.
 - 💞️ I’m looking to collaborate on ... Open source projects 
 - 📫 How to reach me ... Here with my Alias
 
